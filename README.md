@@ -1,6 +1,7 @@
 # Particulate Matter Analysis
 
 Dataset Info: http://www.epa.gov/ttn/chief/eiinformation.html
+
 Dataset: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
 
 fips: A five-digit number (represented as a string) indicating the U.S. county
